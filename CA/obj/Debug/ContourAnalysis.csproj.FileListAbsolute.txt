@@ -1,0 +1,11 @@
+C:\Users\Vlad\Downloads\ContourAnalysis\ContourAnalysis\CA\bin\Debug\ContourAnalysis.dll
+C:\Users\Vlad\Downloads\ContourAnalysis\ContourAnalysis\CA\bin\Debug\ContourAnalysis.pdb
+C:\Users\Vlad\Downloads\ContourAnalysis\ContourAnalysis\CA\obj\Debug\ContourAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Downloads\ContourAnalysis\ContourAnalysis\CA\obj\Debug\ContourAnalysis.dll
+C:\Users\Vlad\Downloads\ContourAnalysis\ContourAnalysis\CA\obj\Debug\ContourAnalysis.pdb
+D:\ToBeSorted\ContourAnalysis\CA\bin\Debug\ContourAnalysis.dll
+D:\ToBeSorted\ContourAnalysis\CA\bin\Debug\ContourAnalysis.pdb
+D:\ToBeSorted\ContourAnalysis\CA\obj\Debug\ContourAnalysis.csprojAssemblyReference.cache
+D:\ToBeSorted\ContourAnalysis\CA\obj\Debug\ContourAnalysis.csproj.CoreCompileInputs.cache
+D:\ToBeSorted\ContourAnalysis\CA\obj\Debug\ContourAnalysis.dll
+D:\ToBeSorted\ContourAnalysis\CA\obj\Debug\ContourAnalysis.pdb
